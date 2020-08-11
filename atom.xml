@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://023444.github.io/liumy</id>
     <title>Liumy Fly</title>
-    <updated>2020-08-11T08:23:36.751Z</updated>
+    <updated>2020-08-11T08:34:23.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://023444.github.io/liumy"/>
     <link rel="self" href="https://023444.github.io/liumy/atom.xml"/>
@@ -11,56 +11,13 @@
     <icon>https://023444.github.io/liumy/favicon.ico</icon>
     <rights>All rights reserved 2020, Liumy Fly</rights>
     <entry>
-        <title type="html"><![CDATA[测试一次]]></title>
+        <title type="html"><![CDATA[创建 zoi]]></title>
         <id>https://023444.github.io/liumy/post/ce-shi-yi-ci/</id>
         <link href="https://023444.github.io/liumy/post/ce-shi-yi-ci/">
         </link>
         <updated>2020-08-11T07:42:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Liumy 2020年6月12日12:04:24</p>
-<p>主题<br>
-Docgg还可以 在用</p>
-<p>最终还是回归系统主题：资源管理器美化组织栏、图标、鼠标、开始任务栏、雨滴皮肤、字体</p>
-<p>----------zoi-------去掉组织栏------------------2种方法--<br>
-选择一个其他主题（防止不可替换）<br>
-复制一个下载的第三方主题下的shellstyle.dll文件<br>
-&quot;C:\Windows\Resources\Themes\Fetch\Shell\NormalColor\shellstyle.dll&quot;<br>
-替换掉当前主题的shellstyle.dll文件,<br>
-在Windows\Resources\Themes\Aero\Shell\NormalColor下</p>
-<h1 id="方法2打开当前主题的shellstyledll文件搜索style-residfolderbandstyleuifile-11033下在下一行添加并保存替换element-paddingrect0rp0rp0rp-64rp">方法2<br>
-打开当前主题的shellstyle.dll文件<br>
-搜索<style resid="FolderBandStyle">(uifile 1:1033下)<br>
-在下一行添加并保存替换<br>
-<Element padding="rect(0rp,0rp,0rp,-64rp)"/></h1>
-<h1 id="-应用第三方主题-1安装主题并应用2安装主题内的第三方图标包一般是7tsp7z是用07图标替换工具-7tsp-gui-2019安装重启3">-----------------应用第三方主题-----------------<br>
-1，安装主题，并应用；<br>
-2，安装主题内的第三方图标包（一般是7tsp*.7z）是用“07.图标替换工具 7TSP GUI 2019“安装重启；<br>
-3，</h1>
-<h1 id="-第三方主题包-可以收集以下资源-1开始按钮cprogram-files-x86startisbackorbs2鼠标指针3任务栏startlsback软件-开始菜单-任务栏样式-msstyles将任务栏样式msstyles文件复制到cprogram-files-x86startisbackstyles开始按钮处右键-属性-外观里面即可看到你安装的样式任意切换4系统图标提取用resource-hacker打开-7tsp-图标文件里的-imageresdllmunres-文件">-----------------第三方主题包 可以收集以下资源------------------<br>
-1，开始按钮C:\Program Files (x86)\StartIsBack\Orbs<br>
-2，鼠标指针<br>
-3，任务栏StartlsBack软件 开始菜单、任务栏样式 ****.msstyles（将任务栏样式.msstyles文件复制到C:\Program Files (x86)\StartIsBack\Styles，开始按钮处右键-属性-外观里面即可看到你安装的样式任意切换）<br>
-4，系统图标提取：用Resource Hacker打开 7tsp 图标文件里的 imageres.dll.mun.res 文件</h1>
-<h1 id="-字体-nomeiryoui替换字体mactray渲染字体似乎用了oppo字体后不用渲染也还行chrome网页用插件加载oppo字体">-----------------字体------------------<br>
-noMeiryoUI替换字体+<br>
-MacTray渲染字体<br>
-似乎用了oppo字体后不用渲染也还行<br>
-chrome网页用插件加载oppo字体</h1>
-<h1 id="-桌面-仿苹果dock栏bitdockrocketdockmydock雨滴皮肤-rainmeter-搜索-rmskin">-----------------桌面------------------<br>
-仿苹果Dock栏：BitDock/RocketDock/MyDock<br>
-雨滴皮肤 Rainmeter 搜索 *.rmskin</h1>
-<p>-----------------去------------------<br>
-查询系统版本号：winver，msinfo32<br>
-美化：<br>
-1，字体：苹果苹方字体、oppo 字体<br>
-2，鼠标：指针</p>
-<p>软件：<br>
-1，搜狗词库 深蓝转换成Windows图库</p>
-<p>系统设置必看：<br>
-1，隐藏驱动器：软媒设置大师<br>
-2，转移用户文件夹</p>
-<h1 id="微软商店tile-genie图片钉在磁贴里干净阅读电子书epub">微软商店<br>
-Tile Genie：图片钉在磁贴里<br>
-干净阅读：电子书epub</h1>
+        <content type="html"><![CDATA[<h1 id="liumy-2020年8月11日">==========================<br>
+Liumy 2020年8月11日</h1>
 ]]></content>
     </entry>
     <entry>
